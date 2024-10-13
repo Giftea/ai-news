@@ -1,4 +1,4 @@
-## Getting Started
+# Getting Started
 
 Before running the development server, run either your preferred commands in your terminal:
 
